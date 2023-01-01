@@ -1,0 +1,17 @@
+ul .nav-link {
+	display: inline-block;
+	padding: 12px 14px;
+	color: #555;
+	text-decoration: none;
+	transition: all 500ms ease;
+	border-bottom: 1px solid transparent;
+}
+
+ul .nav-link:hover {
+	color: #008cba;
+	border-bottom-color: #008cba;
+}
+
+a {
+	text-decoration: none;
+}
